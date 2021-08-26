@@ -1,0 +1,13 @@
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.exe
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.deps.json
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.json
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.dev.json
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.dll
+C:\Users\hp\multiplication\bin\Debug\netcoreapp3.1\multiplication.pdb
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.csprojAssemblyReference.cache
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfoInputs.cache
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfo.cs
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.dll
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.pdb
+C:\Users\hp\multiplication\obj\Debug\netcoreapp3.1\multiplication.genruntimeconfig.cache
